@@ -1,0 +1,14 @@
+#main-img {
+    max-height: 400px;
+    object-fit: cover;
+    width: 100%;
+    filter: brightness(50%)
+}
+
+#large-content {
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url("Pot\ pics/thumbnail_image_67225601.jpg") no-repeat;
+    background-position: center;
+    background-size: 100% auto;
+    height: 400px;
+    background-blend-mode: multiply;
+}
